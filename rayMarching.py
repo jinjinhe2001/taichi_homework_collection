@@ -1,4 +1,4 @@
-# reference ==> https://www.shadertoy.com/view/3sySRKs
+# reference ==> https://www.shadertoy.com/view/3sySRK
 
 import taichi as ti
 import handy_shader_functions as hsf
