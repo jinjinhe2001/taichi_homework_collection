@@ -10,6 +10,6 @@ https://user-images.githubusercontent.com/72654824/216902637-0ac68877-272f-458e-
 ## How to run
 ```
 pip install taichi
-python3 procedural_animation/rayMarching.py
+python3 rayMarching.py
 ```
 
