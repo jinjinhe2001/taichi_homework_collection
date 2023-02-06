@@ -70,7 +70,7 @@ def render(t:ti.f32):
         color *= ti.exp(-depth * 0.15)
         pixels[i,j] = color
 
-gui = ti.GUI("Canvas", res=(res_x, res_y))
+gui = ti.GUI("Ray Marching", res=(res_x, res_y))
 
 for i in range(100000):
     t = i * 0.03
